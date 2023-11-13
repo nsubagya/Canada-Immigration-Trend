@@ -1,2 +1,2 @@
-# Canada-Immigration-Trend
+# Canada-Immigration-Trends-&-Analysis
 Explore the fundamental trends and analysis of immigration to Canada in this concise overview. Gain insights into key patterns, demographic shifts, and factors influencing immigration to one of the world's most diverse nations. Uncover essential information and notable changes, providing a foundational understanding of the dynamics shaping Canada's immigration landscape.
